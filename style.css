@@ -1,0 +1,14 @@
+h1{
+    color: black;
+}
+*{
+    border:solid
+}
+.footer{
+    background-color:burlywood;
+    display: flex;
+    justify-content: space-between;
+}
+.header{
+    color: rgb(120, 120,100);
+}
